@@ -4,7 +4,7 @@ billiard==3.6.1.0
 boto3==1.10.30
 botocore==1.13.30
 celery==4.3.0
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 cryptography~=2.8
 Django==3.0
